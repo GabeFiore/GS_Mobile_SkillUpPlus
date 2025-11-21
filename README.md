@@ -4,6 +4,16 @@
 
 ### Tema: O Futuro do Trabalho e a Requalificação Digital com React Native
 
+### Integrantes:
+
+*  Gabriel Souza Fiore – RM553710 
+
+* Guilherme Santiago – RM552321 
+
+* Gustavo Gouvêa Soares – RM553842 
+
+---
+
 Este projeto apresenta o aplicativo **SkillUpPlus 2030+**, uma solução móvel desenvolvida em **React Native** para apoiar a requalificação profissional frente às transformações do mercado de trabalho impulsionadas pela tecnologia.
 
 O aplicativo foi pensado em alinhamento com os **ODS 4 (Educação de Qualidade)** e **ODS 8 (Trabalho Decente e Crescimento Econômico)** da ONU, oferecendo trilhas de aprendizado personalizadas, autoavaliação de competências e monitoramento de progresso.
@@ -19,15 +29,3 @@ O aplicativo foi pensado em alinhamento com os **ODS 4 (Educação de Qualidade)
 *   **Hooks e Validação:** Uso de Hooks customizados e validação de formulários.
 
 ---
-
-### Integrantes:
-
-*  Gabriel Souza Fiore – RM553710 
-
-* Guilherme Santiago – RM552321 
-
-* Gustavo Gouvêa Soares – RM553842 
-
-### Link do Repositório:
-
-[URL do Repositório GitHub]
